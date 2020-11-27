@@ -1,3 +1,18 @@
-Welcome to xue's website.It's my first personal web page.
-It's ture,too simple it is.
-I have no expercience to do it.But I'm studying hard to do it now.
+
+##个人简历
+###联系方式
+-手机：1878521****
+-Email：192354****@qq.com
+
+###个人信息
+ -肖静楠/女/2001.08.29
+ -籍贯：贵州遵义
+ -本科/南京理工大学/设计艺术与传媒学院/工业设计 2020-
+ -学习年限：1年
+ -Github：https://yuepo77.github.io/Xue.github.io/
+ 
+###兴趣爱好
+ -阅读/跳舞/运动/做饭
+
+###个人评价
+ -爱岗敬业、性格稳重、思维严谨、热爱本职工作。
